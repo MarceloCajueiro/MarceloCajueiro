@@ -13,6 +13,6 @@ Technology speaking, I worked on several solutions, such as Payment and Shipping
 Furthermore, I’m Brazilian, living in Florianópolis, married to my beautiful wife Bruna.
 
 *   🌍  I'm based in Florianópolis, SC, Brazil.
-*   🚀  I'm currently working on [Trybe](http://betrybe.com)
+*   🚀  I'm currently working on [Code1](https://code1.com.br/)
 *   🤝  Connect with me on [Linkedin](https://www.linkedin.com/in/marcelocajueiro/)
 *   ✉️  You can contact me at [marcelocajueiro@gmail.com](mailto:marcelocajueiro@gmail.com)
